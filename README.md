@@ -1,5 +1,6 @@
 ## Hi I'm Kamali 👋
 🎓 Computer Science and Engineering Graduate
+
 👩‍💻 About Me
 I'm an aspiring Data Analyst.
 
