@@ -1,5 +1,5 @@
 ## Hi I'm Kamali 👋
-## 🎓 CSE Graduate | Aspiring Data Analyst | Python Developer
+## 🎓 CSE Graduate | Data Analyst | Python Developer
 
 I am a Computer Science and Engineering graduate with an interest in Data Analytics and Software Development. I have knowledge of Python, SQL, Excel, Power BI, and Tableau.Interested in data analytics, software development, and problem-solving. Passionate about learning new technologies and building practical projects.
 
