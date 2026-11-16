@@ -15,8 +15,19 @@ Passionate about learning new technologies and working on real-world projects.
 
  ## Programming:Python, SQL
 
-Data Analytics: Excel, Power BI, Tableau
+## Data Analytics: Excel, Power BI, Tableau
 
-Libraries: Pandas, NumPy, Matplotlib
+## Libraries: Pandas, NumPy, Matplotlib
 
-Database: SQL
+## Database: SQL
+
+## 📜 Certifications
+ Data Science with Python – QSpiders
+
+ Data Analytics MasterClass – NoviTech R&D Private Limited (Certificate of Completion)
+
+ ## 💼 Internship
+
+ Nextgen Solution Internship– Web Development completed internship gaining practical exposure 
+to frontend web services
+ 
